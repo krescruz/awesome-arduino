@@ -16,7 +16,6 @@ Please see [CONTRIBUTING](https://github.com/krescruz/awesome-arduino/blob/maste
 
 * [123D Circuits](http://123d.circuits.io/) - Design and simulate circuit boards with our breadboard,
 schematic and PCB editor.
-
 * [Proteus](http://www.labcenter.com/download/prodemo_download.cfm) - Is a virtual system modelling and
 circuit simulation application.
 
