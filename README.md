@@ -8,6 +8,7 @@ Please see [CONTRIBUTING](https://github.com/krescruz/awesome-arduino/blob/maste
 
 - [Awesome Ardunio](#awesome-arduino)
     - [Environment Management](#environment-management)
+    - [Circuit Simulator](#circuit-simulator)
 
 --
 
@@ -15,3 +16,8 @@ Please see [CONTRIBUTING](https://github.com/krescruz/awesome-arduino/blob/maste
 
 * [Arduino-software-IDE](http://www.arduino.cc/en/Main/Software) - The open-source Arduino Software (IDE)
 makes it easy to write code and upload it to the board.
+
+## Circuit Simulator
+
+* [Proteus](http://www.labcenter.com/download/prodemo_download.cfm) - Is a virtual system modelling and
+circuit simulation application. 
